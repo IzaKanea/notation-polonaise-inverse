@@ -6,6 +6,6 @@
 <h4>Purpose </h4>
 Write for an interview, share for the students.
 
-<h4>class diagram</h4>
+<h4>Class diagram</h4>
 
 <img src="diagramme.png" height="400px;" target="_blank" alt="reverse polish notation">
